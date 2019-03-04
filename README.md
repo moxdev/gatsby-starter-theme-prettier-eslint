@@ -1,5 +1,5 @@
 # Gatsby Starter Theme with Prettier and Eslint Configurations
-- uses the default Gatsby Starter Theme
+- uses the default Gatsby Starter Theme (version 2.1.20)
 - includes:
   - built in Prettier and ESLint configurations (ESLint uses airbnb)
   - Gatsby Image configurations (images go in the "/images" directory)
